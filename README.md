@@ -1,7 +1,7 @@
 # Purvam Pujari
 
 [![Linkedin Badge](https://img.shields.io/badge/-purvampujari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/purvampujari/)](https://www.linkedin.com/in/purvampujari/) 
-[![Gmail Badge](https://img.shields.io/badge/-ppujari@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link='mailto:ppujari@usc.edu')](ppujari@usc.edu)
+[![Gmail Badge](https://img.shields.io/badge/-ppujari@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ppujari@usc.edu)](ppujari@usc.edu)
 [![Website shields.io](https://img.shields.io/website-purvampujari.github.io-down-green-red/http/shields.io.svg)](https://purvampujari.github.io/)
 
 ---
